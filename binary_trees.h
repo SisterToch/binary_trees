@@ -57,4 +57,5 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 size_t binary_tree_height_balance(const binary_tree_t *tree);
 size_t binary_tree_height(const binary_tree_t *tree);
 size_t binary_tree_size(const binary_tree_t *tree);
+int _pow_recursion(int x, int y);
 #endif
